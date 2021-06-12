@@ -1,4 +1,5 @@
 setup for visual studio (c++)
+all of these files are to be pasted where you keep your .cpp files in a visual studio c++ project
 in order to run this program first of all you must donwload sfml on your computer.
 then include the files game.h , character.h as header files and Source.cpp, game.cpp and character.cpp in the cpp files section
 top in the menu bar select properties and then select your project properties at the bottom
