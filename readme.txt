@@ -8,3 +8,7 @@ now try to run the program ,it runs GOOD!!!
 else check again in project properties select your platform for mine it was x64.
 repeat the above steps then run again it should work
 thanks!!!!!!!
+
+I used sprite sheets from the internet
+this was a very fun project in which i learned a bit of motion graphics with code 
+plus concepts like multi-threading **)
